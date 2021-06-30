@@ -1,10 +1,10 @@
 ### To-do List
-1. 学
-1. 学习
-1. 多学习
-1. 多多学习
-1. 学他喵的习
-1. 不想学习想哭
+- 学
+- 学习
+- 多学习
+- 我爱学习
+- 学他喵的习
+- 不想学习想哭
 
 <!--
 **22CB7139/22CB7139** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
