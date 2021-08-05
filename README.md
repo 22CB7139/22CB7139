@@ -1,10 +1,5 @@
 ### To-do List
-- 学
-- 学习
-- 多学习
-- 我爱学习
-- 学他喵的习
-- 不想学习想哭
+- from newbie to master
 
 <!--
 **22CB7139/22CB7139** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
